@@ -2,6 +2,9 @@ from reader import carregar_csv
 from analyzer import analisar_dados
 from pdf import gerar_pdf
 from charts import gerar_grafico_vendas_por_mes
+from input_csv import criar_csv_interativo
+
+criar_csv_interativo()
 
 def main():
     df = carregar_csv("data/vendas.csv")
@@ -20,3 +23,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
