@@ -3,41 +3,40 @@
 Leitura de dados a partir de arquivo CSV
 Cálculo de métricas:
 
-Total faturado,
+Total faturado
 
-Média de vendas,
+Média de vendas
 
-Maior e menor venda,
+Maior e menor venda
 
-Vendas agregadas por mês,
+Vendas agregadas por mês
 
-Geração de gráfico mensal de vendas com matplotlib,
+Geração de gráfico mensal de vendas com matplotlib
 
-Criação automática de relatório em PDF com resumo e gráfico,
+Criação automática de relatório em PDF com resumo e gráfico
 
 Código organizado em módulos, seguindo boas práticas de separação de responsabilidades.
 
 🛠️ Tecnologias utilizadas:
 
-Python,
+Python
 
-Pandas,
+Pandas
 
-Matplotlib,
+Matplotlib
 
 FPDF.
 
 🧠 Aprendizados
 
 Durante o desenvolvimento, foram praticados conceitos importantes como:
-Manipulação e análise de dados com Pandas,
 
-Tratamento de erros e depuração,
+Manipulação e análise de dados com Pandas
 
-Organização de projetos em camadas,
+Tratamento de erros e depuração
 
-Geração de relatórios automatizados,
+Organização de projetos em camadas
 
-Integração entre análise de dados, visualização e entrega final,
+Geração de relatórios automatizados
 
-Projeto desenvolvido para fins de estudo, com apoio de documentação oficial e ferramentas de IA como suporte ao aprendizado.
+Integração entre análise de dados, visualização e entrega final.
