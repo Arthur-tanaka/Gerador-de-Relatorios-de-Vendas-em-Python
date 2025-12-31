@@ -1,4 +1,17 @@
 # A aplicação realiza a leitura de um arquivo CSV contendo dados de vendas, processa as informações para gerar métricas relevantes e entrega os resultados em um relatório em PDF, incluindo visualização gráfica.
+
+💻 Como Executar
+
+1.TENHA O PYTHON 3 INSTALADO EM SEU COMPUTADOR
+
+2.UTILIZE UMA IDE, DE PREFERÊNCIA VSCODE
+
+3.CLONE OU BAIXE O REPOSITÓRIO
+
+4.EXECUTE O ARQUIVO **MAIN.PY**
+
+5.LOGO A BAIXO DOS ARQUIVOS ELE VAI GERAR UM PDF DO RELATÓRIO
+
 🔧 Funcionalidades
 Leitura de dados a partir de arquivo CSV
 Cálculo de métricas:
